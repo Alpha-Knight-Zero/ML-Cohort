@@ -6,7 +6,9 @@ In the absence of a pre-defined test set the validation set was used to show val
 
 The screenshot of the model accuracy is attached.
 
-![New File - Personal - Microsoft​ Edge 25-02-2022 15_24_12](https://user-images.githubusercontent.com/65271592/155695019-c1cab0d0-2815-4ff4-adbb-662911ae2fd1.png)
+![task ipynb - 1 - Visual Studio Code  Administrator  26-02-2022 16_46_49](https://user-images.githubusercontent.com/65271592/155841163-1fa0879a-866f-47d8-a040-74572984f89c.png)
 
+![task ipynb - 1 - Visual Studio Code  Administrator  26-02-2022 16_46_31](https://user-images.githubusercontent.com/65271592/155841171-e19225ab-c890-4a2c-8bd6-0e40fdd3e4d4.png)
 
-![task ipynb - t3 - Visual Studio Code  Administrator  25-02-2022 15_24_23](https://user-images.githubusercontent.com/65271592/155695029-3cca2e9b-2d96-4fa5-a84b-e88f045115d2.png)
+![task ipynb - 1 - Visual Studio Code  Administrator  26-02-2022 16_46_43](https://user-images.githubusercontent.com/65271592/155841181-9f722e63-5445-441c-a1af-55ded6c89633.png)
+
