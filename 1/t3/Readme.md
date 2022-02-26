@@ -12,3 +12,6 @@ The screenshot of the model accuracy is attached.
 
 ![task ipynb - 1 - Visual Studio Code  Administrator  26-02-2022 16_46_43](https://user-images.githubusercontent.com/65271592/155841181-9f722e63-5445-441c-a1af-55ded6c89633.png)
 
+
+
+![image](https://user-images.githubusercontent.com/65271592/155856156-3e60ee4b-9412-4a17-8f65-1c546737532b.png)
